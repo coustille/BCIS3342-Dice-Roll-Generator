@@ -8,3 +8,6 @@ This program prompts the user for a number of dice rolls to simulate. It then ou
 ### Purpose
 
 This program was written for BCIS 3342  Advanced Java Programming at Tarleton State University
+
+### Source File Location
+/src/main/java
